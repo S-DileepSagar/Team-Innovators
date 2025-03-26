@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import google.generativeai as genai
-import google.generativeai as genai
 
 # Set page configuration
 st.set_page_config(page_title="LearnVeda AI", page_icon="📚", layout="wide")
