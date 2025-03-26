@@ -2,3 +2,5 @@ conda create -n study_timetable python=3.9
 conda activate study_timetable
 
 pip install streamlit pandas
+pip install google-generativeai
+
